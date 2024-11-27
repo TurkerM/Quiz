@@ -1,0 +1,9 @@
+# ninja log v6
+25	772	7544158852973840	QuizTest_autogen/timestamp	7d26cc5e21c1f4ba
+25	772	7544158852973840	QuizTest_autogen/mocs_compilation.cpp	7d26cc5e21c1f4ba
+25	772	7544158852973840	C:/Users/turke/Desktop/QuizTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/QuizTest_autogen/timestamp	7d26cc5e21c1f4ba
+25	772	7544158852973840	C:/Users/turke/Desktop/QuizTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/QuizTest_autogen/mocs_compilation.cpp	7d26cc5e21c1f4ba
+783	3163	7544158853893404	CMakeFiles/QuizTest.dir/main.cpp.obj	79b3ec9f8999a4c
+780	3165	7544158853893404	CMakeFiles/QuizTest.dir/QuizTest_autogen/mocs_compilation.cpp.obj	4fc2017af4236f01
+787	3419	7544158853893404	CMakeFiles/QuizTest.dir/mainwindow.cpp.obj	31518aee387494e
+3420	3979	7544158880358508	QuizTest.exe	1fa1e93abef3852e
